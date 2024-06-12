@@ -13,7 +13,7 @@ export default defineConfig({
       { text: "主页", link: "/" },
       { text: "实例", link: "/markdown-examples" },
     ],
-    logo: "logo.svg",
+    logo: "/logo.svg",
 
     search: {
       provider: "local",
