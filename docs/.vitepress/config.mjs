@@ -4,7 +4,7 @@ import { set_sidebar } from "../utils/auto-gen-sidebar.mjs";
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
   title: "Xiaoming",
-  base: "/docs-demo/",
+  base: "/",
   head: [["link", { rel: "icon", href: "logo.svg" }]],
   description: "A VitePress Site",
   themeConfig: {
